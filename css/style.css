@@ -1,0 +1,26 @@
+body{
+     background-image: url('fon.jpg');     
+}
+
+#wrapper{
+    width: 650px;
+    min-height: 1500px;
+    background: white;
+    margin:auto;
+    padding: 50px;
+    
+}
+.a{
+    text-align: justify;
+    width: 500px;
+}
+
+.links{
+    display: inline-table;
+    margin-left: 20px;
+}
+
+.links2{
+    display:inline-table;
+    margin-left: 30px;
+}
